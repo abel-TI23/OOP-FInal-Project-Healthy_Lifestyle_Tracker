@@ -94,4 +94,5 @@ While simple, it's designed to be extendable — with future possibilities inclu
 Thanks for checking it out, and I hope it helps you as much as it's helping me!
 
 ---
-
+btw here is the link for my video (cant be upload in github so should be access by google Drive):
+https://drive.google.com/file/d/1E034Xx-e6Gq0aNy2_D_ys1zi5AyUO6zr/view?usp=sharing
