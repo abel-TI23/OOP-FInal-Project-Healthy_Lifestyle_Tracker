@@ -1,0 +1,14 @@
+[
+    {
+        "tipe": "Olahraga",
+        "nama": "push up ",
+        "hari": "Senin",
+        "durasi_menit": 15
+    },
+    {
+        "tipe": "Makanan",
+        "nama": "Salad Ayam",
+        "waktu_makan": "Pagi ",
+        "kalori": 266
+    }
+]
